@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memoriesproject/static/css/main.20cf1686.chunk.css",
+    "main.js": "/memoriesproject/static/js/main.17e97941.chunk.js",
+    "main.js.map": "/memoriesproject/static/js/main.17e97941.chunk.js.map",
+    "runtime-main.js": "/memoriesproject/static/js/runtime-main.003f1a03.js",
+    "runtime-main.js.map": "/memoriesproject/static/js/runtime-main.003f1a03.js.map",
+    "static/js/2.41101759.chunk.js": "/memoriesproject/static/js/2.41101759.chunk.js",
+    "static/js/2.41101759.chunk.js.map": "/memoriesproject/static/js/2.41101759.chunk.js.map",
+    "index.html": "/memoriesproject/index.html",
+    "static/css/main.20cf1686.chunk.css.map": "/memoriesproject/static/css/main.20cf1686.chunk.css.map",
+    "static/js/2.41101759.chunk.js.LICENSE.txt": "/memoriesproject/static/js/2.41101759.chunk.js.LICENSE.txt",
+    "static/media/memories.9cfa8a46.png": "/memoriesproject/static/media/memories.9cfa8a46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.003f1a03.js",
+    "static/js/2.41101759.chunk.js",
+    "static/css/main.20cf1686.chunk.css",
+    "static/js/main.17e97941.chunk.js"
+  ]
+}
